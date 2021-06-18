@@ -1,0 +1,4 @@
+# Project exclude paths
+/apitest/target/
+/hdst-gateway/target/
+/oauth2/target/
